@@ -1,0 +1,12 @@
+# Virtual Environment
+venv/
+
+# Database files
+*.db
+
+# Audio recordings
+*.wav
+
+# Python cache
+__pycache__/
+*.pyc
