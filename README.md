@@ -27,3 +27,9 @@ MeetMind is a lightweight, AI-powered desktop application that acts as a live me
 To make testing easier for the evaluators, I have provided my active API keys  so you don't have to create your own. Please paste these into lines 12 and 13 of main.py to run the app instantly: "
 AssemblyAI: [Your Key]
 Gemini: [Your Key]
+
+
+## 🎥 Project Demo
+
+Watch the demo here:
+https://drive.google.com/file/d/1aduciKCbCWJ6hYHtDSaJJNhd7X5Z2VX3/view?usp=sharing
