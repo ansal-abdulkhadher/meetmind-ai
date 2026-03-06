@@ -22,7 +22,7 @@ MeetMind is a lightweight, AI-powered desktop application that acts as a live me
 4. Open `main.py` and insert your own AssemblyAI and Gemini API keys at the top of the file.
 5. Run the application:
    `python main.py`
-6. Open main.py and insert the API keys. (Note for Judges: For your convenience, I have provided active testing keys in the private comments of my submission form!)"
+6. Open main.py and insert the API keys. (Note for Judges: For your convenience, I will provided active testing keys through my guide anju miss )"
 
 To make testing easier for the evaluators, I have provided my active API keys  so you don't have to create your own. Please paste these into lines 12 and 13 of main.py to run the app instantly: "
 AssemblyAI: [Your Key]
